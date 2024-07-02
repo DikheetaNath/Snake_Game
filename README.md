@@ -1,6 +1,5 @@
-# Feed the Snake
+# Feed the Snake🐍🍊
 ### Bored of debugging your code all the time? Here's a simplified version of the famous snake game all the 90's and 00's kids would have played atleast once!
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Game Rules](#game-rules)
@@ -9,7 +8,7 @@
 - [Video Demo](#video-demo)
 
 ## Introduction
-The Snake Game is a classic arcade game that has been recreated in various forms over the years. In this version, you control a snake that moves around the screen, collecting food to grow longer while avoiding collisions with the walls and itself. The goal is to achieve the highest score possible by collecting as much food as you can.
+The Snake Game is a classic arcade game that has been recreated in various forms over the years. In this version, you control a snake that moves around the screen, collecting food to grow longer while avoiding collisions with the walls and itself. The goal is to achieve the highest score possible by collecting as much food 🍊as you can.
 
 ## Game Rules
 - The snake moves continuously in the direction specified by the player.
@@ -22,19 +21,20 @@ The Snake Game is a classic arcade game that has been recreated in various forms
 ## How to Play
 1. **Start the Game**:
     - Run the script.
+    - Name your pet snake.🐍
 
 2. **Controls**:
     - Use the arrow keys to control the direction of the snake.
         - Arrow Keys:
-            - Up: Move Up
-            - Down: Move Down
-            - Left: Move Left
-            - Right: Move Right
+            - Up: Move Up⬆️
+            - Down: Move Down⬇️
+            - Left: Move Left⬅️
+            - Right: Move Right➡️
 
 3. **Objective**:
-    - Navigate the snake to collect food.
+    - Navigate the snake to collect food.🍊
     - Avoid running into walls or the snake's own body.
-    - Try to achieve the highest score possible.
+    - Try to achieve the highest score 💯 possible.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or new features to suggest, please follow these steps:
@@ -73,7 +73,7 @@ Contributions are welcome! If you have any improvements or new features to sugge
     - Select your feature branch and create the pull request.
 
 ## Video Demo:
-[Watch the video]()
+[Watch the video](https://github.com/DikheetaNath/Snake_Game/blob/master/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)📹
 
 
 Enjoy the game! If you encounter any issues or have any questions, feel free to open an issue on GitHub. Happy coding and have fun!
